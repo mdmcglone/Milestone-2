@@ -1,0 +1,17 @@
+---
+title: "Milestone 2"
+author: "Matthew McGlone"
+date: "9/25/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Project 1: Goodwill Hunting, by Ella Michaels
+I liked this project because it features a map - the data she collected on the locations of Goodwills across America creates a comprehensive map and search system for Goodwill locations. The main con I see with this project is that the data used is very limited. The data she collected only has the addresses and coordinates of the Goodwills, so there's not much to analyze in the data beyond this map/search system.
+
+Project 2: Is Arizona More Blue Because It's Less White? by Jacob Hanson
+I like this project because it has multiple pretty maps. He used a census API key to get his data instead of generating it himself, which seems to have allowed him access to more data in general. I also like this project because it does demonstrate a real correlation between Hispanic population and Democratic voters, and visualizes a lot of data in different years, counties, and maps. I think the main con I would have with this project is that it's not a very surprising result, but interesting and useful to visualize nonetheless. 
