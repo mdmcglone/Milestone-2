@@ -15,3 +15,6 @@ I liked this project because it features a map - the data she collected on the l
 
 Project 2: Is Arizona More Blue Because It's Less White? by Jacob Hanson
 I like this project because it has multiple pretty maps. He used a census API key to get his data instead of generating it himself, which seems to have allowed him access to more data in general. I also like this project because it does demonstrate a real correlation between Hispanic population and Democratic voters, and visualizes a lot of data in different years, counties, and maps. I think the main con I would have with this project is that it's not a very surprising result, but interesting and useful to visualize nonetheless. 
+
+
+Link to Repo: https://github.com/mdmcglone/Milestone-2
